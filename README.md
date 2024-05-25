@@ -2,8 +2,8 @@
 <img src= "https://github.com/RutvikJ77/RutvikJ77/blob/master/assets/github%20profile.png"></img>
 <!-- Create a tabular data for blog posts-->
 ### ✔️ I'm currently learning
-- Quantum Computing
-- Devops
+- Next js
+- Payton
 
 ### 💻 I'm working on
 - My portfolio website.
